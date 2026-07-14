@@ -1,6 +1,6 @@
 # Gym App - To Do List
 
-[ ]1. Initialize Repository
+[x]1. Initialize Repository
 [ ]2. Set up Backend (FastAPI project structure, requirements, etc.)
 [ ]3. Set up Frontend (React/TypeScript project)
 [ ]4. Configure Database (PostgreSQL setup)
